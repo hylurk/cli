@@ -1,0 +1,17 @@
+{
+  "name": "ilurk-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "ilurk": "bin/ilurk.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.3.0"
+  }
+}
